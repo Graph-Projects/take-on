@@ -23,3 +23,9 @@ button:hover{
     flex-direction: column;
     align-items: center;
 }
+
+h1{
+    color: blue;
+    font-size: larger;
+    font-family:'Courier New', Courier, monospace ;
+}
